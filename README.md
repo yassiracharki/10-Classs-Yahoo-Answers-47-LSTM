@@ -1,6 +1,6 @@
 # 🤷‍ 10  Classses Text Classification Yahoo Answers 47% LSTM
 
-#picture
+![14](https://github.com/user-attachments/assets/e68178c9-031f-47a7-8d71-44acb28bee01)
 
 1. Download and Imports
 2. Functions
